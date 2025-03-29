@@ -43,7 +43,7 @@
   },
   "license": "Apache 2.0",
   "dependencies": {
-    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy": "^2.0.0",
     "@11ty/eleventy-cache-assets": "^2.3.0",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
@@ -126,7 +126,7 @@
     "mvdir": "^1.0.21",
     "nyc": "^15.1.0",
     "octokit": "^2.1.0",
-    "puppeteer": "^19.2.0",
+    "puppeteer": "^24.2.0",
     "remark-cli": "^8.0.1",
     "remark-frontmatter": "^2.0.0",
     "remark-lint": "^7.0.1",

@@ -125,7 +125,7 @@
     "micromatch": "4.0.5",
     "mvdir": "^1.0.21",
     "nyc": "^15.1.0",
-    "octokit": "^2.1.0",
+    "octokit": "^5.0.2",
     "puppeteer": "^19.2.0",
     "remark-cli": "^8.0.1",
     "remark-frontmatter": "^2.0.0",

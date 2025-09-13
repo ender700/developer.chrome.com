@@ -43,7 +43,7 @@
   },
   "license": "Apache 2.0",
   "dependencies": {
-    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy": "^2.0.0",
     "@11ty/eleventy-cache-assets": "^2.3.0",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
@@ -111,7 +111,7 @@
   },
   "devDependencies": {
     "@ava/babel": "^1.0.1",
-    "@google-cloud/secret-manager": "^3.2.2",
+    "@google-cloud/secret-manager": "^4.0.0",
     "@percy/cli": "^1.16.0",
     "@rollup/plugin-commonjs": "^15.1.0",
     "@rollup/plugin-json": "^4.1.0",
